@@ -1,6 +1,8 @@
 # 이미지 생성 모델의 프롬프트를 위한
 # 적응적 선택과 집중 계층 구조
 
+<KSC 2023 학부생/주니어논문경진대회 우수상 수상>
+
 위 코드 및 자료는 KSC 2023에 제출한 학부생논문 실험 및 결과를 담은 코드이다.
 
 해당 자료는 [학부생논문](https://drive.google.com/file/d/1bjbJ--zeCEKiWOI-2mysC-P1AWlChcm_/view?usp=sharing) 을 클릭하여 볼 수 있다.
